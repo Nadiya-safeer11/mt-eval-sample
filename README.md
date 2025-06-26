@@ -5,6 +5,8 @@ This is a simple project to evaluate the quality of a machine-translated text us
 ---
 
 ## 📂 Project Structure
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nadiya-safeer11/mt-eval-sample/blob/main/run.ipynb)
+
 
 ```
 mt-eval-sample/
